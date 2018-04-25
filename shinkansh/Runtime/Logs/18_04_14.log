@@ -1,0 +1,10 @@
+[ 2018-04-14T14:39:46+08:00 ] /index.php/Admin/Category/test2 | INFO: Tag[ route_check ] --START--
+[ 2018-04-14T14:39:46+08:00 ] /index.php/Admin/Category/test2 | INFO: Run CheckRoute Behavior [ RunTime:0.118402s ]
+[ 2018-04-14T14:39:46+08:00 ] /index.php/Admin/Category/test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.118472s ]
+[ 2018-04-14T14:39:46+08:00 ] /index.php/Admin/Category/test2 | INFO: Tag[ app_begin ] --START--
+[ 2018-04-14T14:39:46+08:00 ] /index.php/Admin/Category/test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.076952s ]
+[ 2018-04-14T14:39:46+08:00 ] /index.php/Admin/Category/test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.077011s ]
+[ 2018-04-14T14:39:48+08:00 ] /index.php/Admin/Category/test2 | SQL: SHOW COLUMNS FROM `tp_bitcharray` [ RunTime:0.091577s ]
+[ 2018-04-14T14:39:48+08:00 ] /index.php/Admin/Category/test2 | SQL: INSERT INTO `tp_bitcharray` (`name`,`content`,`cid`) VALUES ('sao1','zhensao',1) [ RunTime:0.224212s ]
+[ 2018-04-14T14:39:48+08:00 ] /index.php/Admin/Category/test2 | SQL: INSERT INTO `tp_bitcharray` (`id`,`name`,`content`,`cid`) VALUES (40,'sao2','zhensao',1) [ RunTime:0.089714s ]
+[ 2018-04-14T14:39:48+08:00 ] /index.php/Admin/Category/test2 | SQL: INSERT INTO `tp_bitcharray` (`name`,`content`,`cid`) VALUES ('sao3','zhensao',1) [ RunTime:0.182260s ]
